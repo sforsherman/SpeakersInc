@@ -1,0 +1,8 @@
+/Volumes/Samsung_T3/CXWORKS/Research-Projects/SpeakersInc/SpeakersInc.Web/SpeakersInc.Web.Api/bin/Debug/netcoreapp1.1/SpeakersInc.Web.Api.deps.json
+/Volumes/Samsung_T3/CXWORKS/Research-Projects/SpeakersInc/SpeakersInc.Web/SpeakersInc.Web.Api/bin/Debug/netcoreapp1.1/SpeakersInc.Web.Api.runtimeconfig.json
+/Volumes/Samsung_T3/CXWORKS/Research-Projects/SpeakersInc/SpeakersInc.Web/SpeakersInc.Web.Api/bin/Debug/netcoreapp1.1/SpeakersInc.Web.Api.runtimeconfig.dev.json
+/Volumes/Samsung_T3/CXWORKS/Research-Projects/SpeakersInc/SpeakersInc.Web/SpeakersInc.Web.Api/bin/Debug/netcoreapp1.1/SpeakersInc.Web.Api.dll
+/Volumes/Samsung_T3/CXWORKS/Research-Projects/SpeakersInc/SpeakersInc.Web/SpeakersInc.Web.Api/bin/Debug/netcoreapp1.1/SpeakersInc.Web.Api.pdb
+/Volumes/Samsung_T3/CXWORKS/Research-Projects/SpeakersInc/SpeakersInc.Web/SpeakersInc.Web.Api/obj/Debug/netcoreapp1.1/SpeakersInc.Web.Api.AssemblyInfo.cs
+/Volumes/Samsung_T3/CXWORKS/Research-Projects/SpeakersInc/SpeakersInc.Web/SpeakersInc.Web.Api/obj/Debug/netcoreapp1.1/SpeakersInc.Web.Api.dll
+/Volumes/Samsung_T3/CXWORKS/Research-Projects/SpeakersInc/SpeakersInc.Web/SpeakersInc.Web.Api/obj/Debug/netcoreapp1.1/SpeakersInc.Web.Api.pdb

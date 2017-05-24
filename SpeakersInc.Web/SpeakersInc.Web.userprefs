@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E2484F4A-9F1F-45F5-B19B-D9080F164D93}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpeakersInc.Web.Api/Models/SpeakersIncContext.cs">
+    <Files>
+      <File FileName="SpeakersInc.Web.Api/Models/SpeakersIncContext.cs" Line="9" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SpeakersInc.Web.Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
